@@ -4,7 +4,7 @@ Bienvenue sur le bugtracker public de Freenews. Postez-y tout bug ou toute sugge
 
 * le site web [Freenews.fr](http://www.freenews.fr)
 * le [forum](http://forum.freenews.fr)
-* les applications : [iOS](https://itunes.apple.com/fr/app/freenews/id431232319?mt=8), [Android](https://play.google.com/store/apps/details?id=com.freenews.app&hl=fr), [Mac](https://itunes.apple.com/fr/app/freenews/id1090733346?mt=12)
+* les applications : [iOS](https://itunes.apple.com/fr/app/freenews/id431232319?mt=8), [macOS](https://itunes.apple.com/fr/app/freenews/id1090733346?mt=12), [Android](https://play.google.com/store/apps/details?id=com.freenews.app&hl=fr), [Windows](https://www.microsoft.com/store/apps/9n6h6lglh5hs)
 
 Nous promettons de faire de notre mieux pour corriger les problèmes remontés, et considérer les suggestions pertinentes. En contrepartie, nous vous demandons de décrire vos problèmes de façon claire et lisible,  en n'oubliant pas de :
 
